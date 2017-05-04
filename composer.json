@@ -2,7 +2,7 @@
     "name":"cjprinse/magento-redis-session",
     "type":"magento-module",
     "license":"BSD-3-Clause",
-    "homepage":"https://github.com/colinmollenhour/Cm_RedisSession",
+    "homepage":"https://github.com/cjprinse/Cm_RedisSession",
     "description":"A Redis-based session handler for Magento with optimistic locking.",
     "authors":[
         {
